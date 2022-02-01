@@ -14,12 +14,12 @@
 #
 #
 #Declare variables
-$Givenname = "Allie"
-$Surname = "McCray"
-$Displayname = "Allie McCray"
-$Name = "amccray"
-$Password = "Pass1w0rd"
-$Identity = "CN=amccray,CN=Users,DC=contoso,DC=com"
+$Givenname = "Userr"
+$Surname = "Name"
+$Displayname = "User Name"
+$Name = "user1"
+$Password = "Pass1word"
+$Identity = "CN=user1,CN=Users,DC=tester,DC=es"
 $SecureString = ConvertTo-SecureString $Password -AsPlainText -Force
 
 
