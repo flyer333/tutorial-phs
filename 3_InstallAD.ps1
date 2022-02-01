@@ -16,8 +16,8 @@
 #Declare variables
 $DatabasePath = "c:\windows\NTDS"
 $DomainMode = "WinThreshold"
-$DomainName = "contoso.com"
-$DomaninNetBIOSName = "CONTOSO"
+$DomainName = "tester.es"
+$DomaninNetBIOSName = "TESTER"
 $ForestMode = "WinThreshold"
 $LogPath = "c:\windows\NTDS"
 $SysVolPath = "c:\windows\SYSVOL"
